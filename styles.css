@@ -1,0 +1,28 @@
+html {height: 100%;}
+.placeholder {
+    background-color: rgb(23, 37, 37);
+    color: rgb(183, 248, 183);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 30px;
+}
+
+.submenu {
+    background-color: rgb(133, 161, 163);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+    justify-content: space-between;
+    display: flex;
+    text-align: center;
+}
+
+body {
+    background-image: url(images/Website\ Background.png);
+}
+p1 {
+    color: white;
+}  
+
+p2 {
+    color: white;
+}    
